@@ -1,1 +1,62 @@
-h1{color: aqua;background-color: bisque;}
+.firstheading{padding: 30px;
+    border-radius: 15px;
+    height: fit-content;
+    width: fit-content;
+    color: blue;
+    background-color: bisque;}
+.ndheading{
+    height: fit-content; 
+    padding: 30px; 
+    border-radius: 15px;
+    width: fit-content;
+    color: brown;
+    background-color: blueviolet;}
+.Dhaka{
+    color: greenyellow; 
+    border-radius: 15px;
+    padding: 30px;
+    background-color:green;
+    border: 5px solid rgb(142, 184, 134);
+    height: fit-content;
+    width: fit-content;
+    border-radius: 15px;
+}
+
+.Rajshahi{ height: fit-content;
+    padding: 30px;
+    width: fit-content;
+    color: red;
+    background-color: yellow;
+    border-radius: 15px;
+}
+
+.ch{color: red;
+    padding: 30px;
+    height: fit-content;
+    width: fit-content;
+    background-color: blueviolet;
+    font-size: 40px;
+    border: 5px solid greenyellow;
+    border-radius: 10px;
+}
+.test{ color: green;
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(124, 180, 50);
+    margin: 50px;
+    padding: 30px;
+    border-radius: 25px;
+    border: solid rebeccapurple;
+
+}
+.blog{ 
+    height: fit-content;
+    width:30%;
+    margin: 20px;
+    background-color:white;
+    border-radius: 15px;
+    padding: 45px;
+    color: green;
+    border: solid rebeccapurple;
+    float: left;
+}
