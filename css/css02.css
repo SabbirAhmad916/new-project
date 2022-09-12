@@ -60,3 +60,16 @@
     border: solid rebeccapurple;
     float: left;
 }
+ul{
+    list-style-type: none;
+}
+li a{
+    float: left;
+    padding: 5%;
+    text-decoration: none;
+    color: black;
+}
+
+li a h2:hover{
+    color: blue;
+}
