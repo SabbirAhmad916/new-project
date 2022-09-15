@@ -62,14 +62,20 @@
 }
 ul{
     list-style-type: none;
+    overflow: hidden;
+    background-color: aqua;
 }
 li a{
     float: left;
-    padding: 5%;
+    margin: 0px;
+    padding: 10px;
     text-decoration: none;
     color: black;
+    display: block;
 }
-
+body{
+    margin: 0px;
+}
 li a h2:hover{
     color: blue;
 }
